@@ -1,5 +1,5 @@
 # baby_set.py
-
+#Freddie pointed the fact that we needed the KeyError and advised me to remove -1 in the clear code
 class BabySet:
 	""" A class the mimics the behavior of python's built in 
 	Set class. Implemented as a list."""

@@ -1,4 +1,6 @@
 # test_babyset.py
+###Contributors###
+#Freddie help implement remove and advised me to check the size in the clear function
 import unittest
 
 from baby_set import BabySet
